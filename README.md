@@ -1,0 +1,3 @@
+# Blog-desarrollo-web
+El Desarrollo web se refiere al proceso de creación, diseño y mantenimiento de sitios web y aplicaciones web. Esto implica una variedad de actividades, como la creación de páginas web, la programación de aplicaciones web, la gestión de bases de datos, el diseño gráfico y la optimización del rendimiento de un sitio web. El desarrollo web también puede incluir la integración de diferentes tecnologías y sistemas para crear una experiencia web interactiva y eficiente para los usuarios. En resumen, el desarrollo web es esencial para la creación y funcionamiento de sitios web y aplicaciones web que se utilizan en todo el mundo.
+![cover](https://github.com/Alejandra-Lopez17/Blog-desarrollo-web/blob/master/desarrollo.png)
